@@ -1,0 +1,11 @@
+
+<resources>
+    <string name="app_name">SimpleAccessibility</string>
+    <string name="button_text">Compose</string>
+    <string name="checkbox_text_jetpack">Enable jetpack</string>
+    <string name="checkbox_text_hyperspace">Enable hyperspace</string>
+    <string name="imagebutton_contentdescription">Discard</string>
+    <string name="imageview_contentdescription">Partly cloudy</string>
+    <string name="edittext_text">Write your message</string>
+    <string name="label_message">Message</string>
+</resources>
